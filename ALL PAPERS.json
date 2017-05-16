@@ -1,0 +1,304 @@
+{
+  "questions": [
+    {
+      "question": "Which of these lifecycle methodologies is least suitable for use on a safety-critical system?",
+      "choices": [
+        "Incremental development",
+        "Spiral model",
+        "Waterfall lifecycle"
+      ],
+      "answers": [
+        "Evolutionary prototyping"
+      ],
+      "directions": "Lecture 8 Slide 4"
+    },
+    {
+      "question": "Which of the following things is most important if you want to create quality software?",
+      "choices": [
+        "Lots of money",
+        "A good requirements specification",
+        "The best software tools"
+      ],
+      "answers": [
+        "Properly trained people"
+      ],
+      "directions": "Lecture 2 Slide 24"
+    },
+    {
+      "question": "What is the optimum number of people on which to evaluate the usability of an interface?",
+      "choices": [
+        "1",
+        "10",
+        "100"
+      ],
+      "answers": [
+        "5"
+      ],
+      "directions": "Lecture 3 Slide 16"
+    },
+    {
+      "question": "Which of the following is NOT true when building user interface prototypes?",
+      "choices": [
+        "You need to do evaluation on typical users to get sensible results",
+        "You can get useful results from a paper-based user interface",
+        "Putting realistic data in your prototype screens gives more useful results"
+      ],
+      "answers": [
+        "You need to make your prototype work for every possible data input"
+      ],
+      "directions": "Lecture 3 Slide 10, 11, 12 and 25"
+    },
+    {
+      "question": "Select the most sensible order in which to build a system:",
+      "choices": [
+        "Requirements, design, maintenance, implementation, testing.",
+        "Design, requirements, implementation, testing, maintenance.",
+        "Requirements, design, implementation, maintenance, testing."
+      ],
+      "answers": [
+        "Requirements, design, implementation, testing, maintenance."
+      ],
+      "directions": "Lecture 6 Slide 4"
+    },
+    {
+      "question": "Which of the following statements is NOT true about Extreme Programming:",
+      "choices": [
+        "It is flexible and responsive to changing user needs.",
+        "It is an example of an agile programming methodology.",
+        "Unit testing is a key discipline in Extreme Programming."
+      ],
+      "answers": [
+        "It includes producing a requirements specification to define what will be produced."
+      ],
+      "directions": "Lecture 8 Slide 16 plus online"
+    },
+    {
+      "question": "Which of the following statements is true?",
+      "choices": [
+        "You can always develop software faster by adding extra programming effort.",
+        "A project plan should not be changed once it has been made.",
+        "A company should always charge the same amount of money to clients for a day of programmer time."
+      ],
+      "answers": [
+        "Time, cost, scope and quality of software are related."
+      ],
+      "directions": "Lecture 7 Slide 2"
+    },
+    {
+      "question": "Which of the following types of maintenance involves adding extra functionality to your software?",
+      "choices": [
+        "Corrective maintenance.",
+        "Adaptive maintenance.",
+        "Preventative maintenance."
+      ],
+      "answers": [
+        "Perfective maintenance."
+      ],
+      "directions": "Lecture 15 Slide 2"
+    },
+    {
+      "question": "Which of the following requirements is a functional requirement?",
+      "choices": [
+        "The system should be developed in line with company quality standards.",
+        "The system should meet international nuclear power safety standards.",
+        "The system should work quickly on Unix computers."
+      ],
+      "answers": [
+        "When the user presses the START button, the vehicle should move forward at 2 m/s."
+      ],
+      "directions": "Lecture 3 Slide 30"
+    },
+    {
+      "question": "Which of the following requirements is an external requirement?",
+      "choices": [
+        "When the user presses the START button, the vehicle should move forward at 2 m/s.",
+        "The system should be developed in line with company quality standards.",
+        "The system should work quickly on Unix computers."
+      ],
+      "answers": [
+        "The system should meet international nuclear power safety standards."
+      ],
+      "directions": "Common Sense, report wrong"
+    },
+    {
+      "question": "Which of the following requirements is not testable?",
+      "choices": [
+        "When the user presses the START button, the vehicle should move forward at 2 m/s.",
+        "The system should be developed in line with company quality standards.",
+        "The system should meet international nuclear power safety standards."
+      ],
+      "answers": [
+        "The system should work quickly on Unix computers."
+      ],
+      "directions": ""
+    },
+    {
+      "question": "Which of the following requirements is a process requirement?",
+      "choices": [
+        "When the user presses the START button, the vehicle should move forward at 2 m/s.",
+        "The system should meet international nuclear power safety standards.",
+        "The system should work quickly on Unix computers."
+      ],
+      "answers": [
+        "The system should be developed in line with company quality standards."
+      ],
+      "directions": "Lecture 2 Slide 20"
+    },
+    {
+      "question": "What is the relationship between ISO 9001 and ISO 9000-3?",
+      "choices": [
+        "ISO 9001 is a more detailed version of ISO 9000-3 specifically for software.",
+        "ISO 9001 is a more recent version of ISO 9000-3.",
+        "ISO 9000-3 is a more recent version of ISO 9001."
+      ],
+      "answers": [
+        "ISO 9000-3 is a more detailed of ISO 9001 specifically for software."
+      ],
+      "directions": "Lecture 7 Slide 8"
+    },
+    {
+      "question": "Which of the following is not a type of testing?",
+      "choices": [
+        "White box testing",
+        "Stress testing",
+        "Regression testing"
+      ],
+      "answers": [
+        "Affective testing"
+      ],
+      "directions": "Lecture 5, Slides 5, 9, 10 and 23"
+    },
+    {
+      "question": "Which of the following was not a conclusion of the enquiry into the London Ambulance Service Computer-Aided Despatch Service?",
+      "choices": [
+        "London Ambulance Service needs full-time IT managers.",
+        "Around 4 years would be needed to build complete system.",
+        "Computer-aided despatch is desirable and should be implemented."
+      ],
+      "answers": [
+        "Computer-aided despatch is dangerous and should be avoided."
+      ],
+      "directions": "Lecture 14, Slides 27"
+    },
+    {
+      "question": "What is the most valuable thing that you can do if your company wants to improve its software processes?",
+      "choices": [
+        "Measure what is done, in order to observe where the problems are.",
+        "Improve the way the company system tests its software.",
+        "Introduce unit testing to the company."
+      ],
+      "answers": [
+        "Put in place a full quality control system to ISO-standards."
+      ],
+      "directions": "Lecture 2, Slides 18"
+    },
+    {
+      "question": "Which of the following should encourage you to refactor your software?",
+      "choices": [
+        "Complaints from your customers.",
+        "An increase in the number of bugs reported.",
+        "Bad crashes in your run times."
+      ],
+      "answers": [
+        "Bad smells in your code."
+      ],
+      "directions": "Lecture 15, Slides 12, 13 and 14"
+    },
+    {
+      "question": "What does a sequence diagram show about the way your program works?",
+      "choices": [
+        "The methods that one class calls in another class",
+        "The structure of a class",
+        "How the hard parts of your code can be written"
+      ],
+      "answers": [
+        "How a main operation of the program works by calling different classes/methods"
+      ],
+      "directions": "Lecture 10, Slides 19"
+    },
+    {
+      "question": "In the Software Engineering Institute's Capability Maturity Model, which level describes an organization that is constantly attempting to improve its performance?",
+      "choices": [
+        "Level 1",
+        "Level 3",
+        "Level 7"
+      ],
+      "answers": [
+        "Level 5"
+      ],
+      "directions": "Lecture 17, Slides 12"
+    },
+    {
+      "question": "Which of the following is best as a definition of software engineering",
+      "choices": [
+        "Software engineering is about making bug-free software",
+        "Software engineering is about always making the best software we can",
+        "Software engineering is about carrying out lots of quality procedures to make your customers happy"
+      ],
+      "answers": [
+        "Software engineering is about consistently making software of a level of quality appropriate to its use"
+      ],
+      "directions": "Unknown"
+    },
+    {
+      "question": "Why are documented procedures and management necessary in order to produce quality software?",
+      "choices": [
+        "Because software developers need to be kept in line or they do the wrong thing",
+        "Because it makes management happy that they are in charge",
+        "Because the ISO standard says so"
+      ],
+      "answers": [
+        "Because software development is complex and there are many things that need to be remembered"
+      ],
+      "directions": "Lecture 7, Slides 2"
+    },
+    {
+      "question": "Which of the following is not a good reason for holding a code review in your development team?",
+      "choices": [
+        "In order to share good programming practice among the team",
+        "In order to identify potential problems in code before it is deployed",
+        "In order to give the team a better understanding of the coding standards used"
+      ],
+      "answers": [
+        "In order to identify the best and worst programmers in your team"
+      ],
+      "directions": ""
+    },
+    {
+      "question": "Which kind of testing is done by the customer of the software rather than the developer?",
+      "choices": [
+        "Integration testing",
+        "Unit testing",
+        "System testing"
+      ],
+      "answers": [
+        "Acceptance testing"
+      ],
+      "directions": "Lecture 4, Slides 10"
+    },
+    {
+      "question": "Which of the following statements is not true?",
+      "choices": [
+        "UML stands for Unified Modelling Language.",
+        "Component Diagrams are part of UML.",
+        "Sequence Diagrams are part of UML."
+      ],
+      "answers": [
+        "UML is a process for modelling systems."
+      ],
+      "directions": "Lecture 9, Slides 16"
+    },
+    {
+      "question": "On a project which has been running for two years and is behind schedule for delivery in six months time, which of the following strategies is most likely to make things worse?",
+      "choices": [
+        "Adding extra staff to the project to increase the effort available",
+        "Reducing the functionality that will be delivered at the due date",
+        "Identifying outside expertise that can help with specific problems"
+      ],
+      "answers": [
+        "Revise the plan to give a later delivery date"
+      ],
+      "directions": "Unknown"
+    }
+  ]
+}
