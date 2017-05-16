@@ -13,6 +13,18 @@
       "directions": "Lecture 8 Slide 4"
     },
     {
+      "question": "Which of these lifecycle methodologies is best described as a rigid development methodology with fixed stages that are adressed in a specific order?",
+      "choices": [
+        "Incremental development",
+        "Evolutionary prototyping",
+        "Spiral model"
+      ],
+      "answers": [
+        "Waterfall lifecycle"
+      ],
+      "directions": "Lecture 8, Slides 3"
+    },
+    {
       "question": "Which of the following things is most important if you want to create quality software?",
       "choices": [
         "Lots of money",
@@ -118,7 +130,7 @@
       "answers": [
         "The system should meet international nuclear power safety standards."
       ],
-      "directions": "Common Sense, report wrong"
+      "directions": "Lecture 16, Slide 17"
     },
     {
       "question": "Which of the following requirements is not testable?",
@@ -130,7 +142,7 @@
       "answers": [
         "The system should work quickly on Unix computers."
       ],
-      "directions": ""
+      "directions": "Lecture 16 slide 18, need a better definition than quickly"
     },
     {
       "question": "Which of the following requirements is a process requirement?",

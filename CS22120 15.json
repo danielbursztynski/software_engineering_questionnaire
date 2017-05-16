@@ -285,17 +285,16 @@
       "directions": ""
     },
     {
-      "question": "Which of the following international standards applies to the development of software?",
+      "question": "Which of the following international standards applies to the development of software",
       "choices": [
         "ISO 4007",
         "ISO 8003",
-        "ISO 12001",
-        "ISO 9000-3"
+        "ISO 12001"
       ],
       "answers": [
-        ""
+        "ISO 9000-3"
       ],
-      "directions": ""
+      "directions": "Lecture 7 Slide 8"
     },
     {
       "question": "Which of the following would you be unlikely to see in a Project Plan?",

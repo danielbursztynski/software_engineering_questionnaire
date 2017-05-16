@@ -1,17 +1,16 @@
 {
   "questions": [
     {
-      "question": "Which of these lifecycle methodologies is best described as a rigid development methodology with fixed stages that are addressed in a specific order?",
+      "question": "Which of these lifecycle methodologies is least suitable for use on a safety-critical system?",
       "choices": [
         "Incremental development",
-        "Evolutionary prototyping",
-        "Waterfall lifecycle",
-        "Spiral model"
+        "Spiral model",
+        "Waterfall lifecycle"
       ],
       "answers": [
-        ""
+        "Evolutionary prototyping"
       ],
-      "directions": ""
+      "directions": "Lecture 8 Slide 4"
     },
     {
       "question": "What is the main message of Brooks' \"No silver bullet\" paper?",
@@ -22,7 +21,7 @@
         "No single improvement to what we do can deliver quality software"
       ],
       "answers": [
-        ""
+        "Unknown"
       ],
       "directions": "http://worrydream.com/refs/Brooks-NoSilverBullet.pdf"
     },
@@ -35,9 +34,9 @@
         "Use Photoshop to make drawings of what the screens will look like"
       ],
       "answers": [
-        ""
+        "Unknown"
       ],
-      "directions": ""
+      "directions": "Unknown"
     },
     {
       "question": "Which of the following is true when evaluating a design for a user interface?",
@@ -48,9 +47,9 @@
         "You need to make your prototype work for every possible data input"
       ],
       "answers": [
-        ""
+        "Unknown"
       ],
-      "directions": ""
+      "directions": "Unknown"
     },
     {
       "question": "Which of the following statements is true?",
@@ -61,22 +60,21 @@
         "A company should always charge the same amount of money to clients for a day of programmer time"
       ],
       "answers": [
-        ""
+        "Unknown"
       ],
-      "directions": ""
+      "directions": "Unknown"
     },
     {
       "question": "Which category of maintenance would include refactoring software so that it is easier to maintain?",
       "choices": [
-        "Corrective maintenance.",
-        "Adaptive maintenance.",
-        "Perfective maintenance.",
-        "Preventative maintenance"
+        "Corrective maintenance",
+        "Perfective maintenance",
+        "Adaptive maintenance"
       ],
       "answers": [
-        ""
+        "Preventative maintenance"
       ],
-      "directions": ""
+      "directions": "Lecture 15, Slide 2"
     },
     {
       "question": "Which of the following statements is true?",
@@ -87,9 +85,9 @@
         "Regression testing entails testing all the paths through the code"
       ],
       "answers": [
-        ""
+        "Unknown"
       ],
-      "directions": ""
+      "directions": "Unknown"
     },
     {
       "question": "Which of the following requirements is not testable?",
@@ -100,9 +98,9 @@
         "The system should use the existing software library to turn the heating on and off"
       ],
       "answers": [
-        ""
+        "Unknown"
       ],
-      "directions": ""
+      "directions": "Unknown"
     },
     {
       "question": "Which of the following requirements is a process requirement?",
@@ -113,9 +111,9 @@
         "The system should use the existing software library to turn the heating on and off"
       ],
       "answers": [
-        ""
+        "Unknown"
       ],
-      "directions": ""
+      "directions": "Unknown"
     },
     {
       "question": "Which of the following requirements is a functional requirement?",
@@ -126,9 +124,9 @@
         "The system should use the existing software library to turn the heating on and off"
       ],
       "answers": [
-        ""
+        "Unknown"
       ],
-      "directions": ""
+      "directions": "Unknown"
     },
     {
       "question": "Which of the following requirements is an external requirement?",
@@ -139,22 +137,21 @@
         "The system should use the existing software library to turn the heating on and off"
       ],
       "answers": [
-        ""
+        "Unknown"
       ],
-      "directions": ""
+      "directions": "Unknown"
     },
     {
-      "question": "Which of the following things is most important if you want to create quality software",
+      "question": "Which of the following things is most important if you want to create quality software?",
       "choices": [
-        "Properly trained people",
-        "The best software tools",
+        "Lots of money",
         "A good requirements specification",
-        "Lots of money"
+        "The best software tools"
       ],
       "answers": [
-        ""
+        "Properly trained people"
       ],
-      "directions": ""
+      "directions": "Lecture 2 Slide 24"
     },
     {
       "question": "Which of the following international standards applies to the development of software?",
@@ -165,9 +162,9 @@
         "ISO 9000-3"
       ],
       "answers": [
-        ""
+        "Unknown"
       ],
-      "directions": ""
+      "directions": "Unknown"
     },
     {
       "question": "Which of the following is not a good reason for holding a code review in your development team?",
@@ -178,9 +175,9 @@
         "In order to give the team a better understanding of the coding standards used"
       ],
       "answers": [
-        ""
+        "Unknown"
       ],
-      "directions": ""
+      "directions": "Unknown"
     },
     {
       "question": "Which of the following should encourage you to refactor your software?",
@@ -191,9 +188,9 @@
         "Bad smells in your code"
       ],
       "answers": [
-        ""
+        "Unknown"
       ],
-      "directions": ""
+      "directions": "Unknown"
     },
     {
       "question": "What is the most valuable thing that you can do if your company wants to improve its software processes?",
@@ -204,9 +201,9 @@
         "Introduce unit testing to the company"
       ],
       "answers": [
-        ""
+        "Unknown"
       ],
-      "directions": ""
+      "directions": "Unknown"
     },
     {
       "question": "Which kind of UML diagram illustrates how the main operations of a program are carried out through calls to methods in different classes?",
@@ -217,9 +214,9 @@
         "Use case diagram"
       ],
       "answers": [
-        ""
+        "Unknown"
       ],
-      "directions": ""
+      "directions": "Unknown"
     },
     {
       "question": "Which kind of UML diagram shows which methods in each class are called by other classes, and which classes they are called by?",
@@ -230,9 +227,9 @@
         "Use case diagram"
       ],
       "answers": [
-        ""
+        "Unknown"
       ],
-      "directions": ""
+      "directions": "Unknown"
     },
     {
       "question": "Which kind of UML diagram shows how actors interact with a system to achieve goals?",
@@ -243,9 +240,9 @@
         "Use case diagram"
       ],
       "answers": [
-        ""
+        "Unknown"
       ],
-      "directions": ""
+      "directions": "Unknown"
     },
     {
       "question": "Which of the following statements is not true?",
@@ -256,9 +253,9 @@
         "Class diagrams are part of UML"
       ],
       "answers": [
-        ""
+        "Unknown"
       ],
-      "directions": ""
+      "directions": "Unknown"
     },
     {
       "question": "In the Software Engineering Institute's Capability Maturity Model, what term is used to describe an organisation with a stable process model meeting the demands of the US Department of Defense?",
@@ -269,9 +266,9 @@
         "Optimizing"
       ],
       "answers": [
-        ""
+        "Unknown"
       ],
-      "directions": ""
+      "directions": "Unknown"
     },
     {
       "question": "Which of the following is a correct statement?",
@@ -282,22 +279,21 @@
         "Testing gives repeatable checking at low cost that specific problems do not occur"
       ],
       "answers": [
-        ""
+        "Unknown"
       ],
-      "directions": ""
+      "directions": "Unknown"
     },
     {
       "question": "Which of the following is a correct statement?",
       "choices": [
-        "Ethics involves doing a cost/benefit analysis",
-        "Ethics is about making choices with a moral dimension",
-        "Ethics means we should not work for the defence industry",
+        "Ethics involves doing a cost/benefit analysis.",
+        "Ethics means we should not work for the defence industry.",
         "Ethics means that we need to obey the law"
       ],
       "answers": [
-        ""
+        "Ethics is about making choices with a moral dimension"
       ],
-      "directions": ""
+      "directions": "Common sense, choices is they key here"
     },
     {
       "question": "Which of the following was not a conclusion of the enquiry into the London Ambulance Service Computer-Aided Despatch Service?",
@@ -308,9 +304,21 @@
         "Computer-aided despatch is dangerous and should be avoided"
       ],
       "answers": [
-        ""
+        "Unknown"
       ],
-      "directions": ""
+      "directions": "Unknown"
+    },
+    {
+      "question": "Which of the following types of maintenance involves modifying software because of environmental changes",
+      "choices": [
+        "Perfective maintenance.",
+        "Corrective maintenance.",
+        "Preventative maintenance."
+      ],
+      "answers": [
+        "Adaptive maintenance."
+      ],
+      "directions": "Lecture 15 Slide 2"
     },
     {
       "question": "Which of the following statements is not true?",
@@ -321,9 +329,57 @@
         "Source control is an important part of developing engineered software"
       ],
       "answers": [
-        ""
+        "Unknown"
       ],
-      "directions": ""
+      "directions": "Unknown"
+    },
+    {
+      "question": "Which of the following types of testing involves testing individual modules(methods, classes) in isolation.",
+      "choices": [
+        "Integration or subsystem testing",
+        "System testing",
+        "Acceptance testing"
+      ],
+      "answers": [
+        "Unit or module testing"
+      ],
+      "directions": "Lecture 4 Slide 10"
+    },
+    {
+      "question": "Which of the following types of testing involves assembling related modules into subsystem and testing these",
+      "choices": [
+        "Unit or module testing",
+        "System testing",
+        "Acceptance testing"
+      ],
+      "answers": [
+        "Integration or subsystem testing"
+      ],
+      "directions": "Lecture 4 Slide 10, subsystem"
+    },
+    {
+      "question": "Which of the following types of testing involves testing by the end users or customers to satisfy themselves that the work has been completed satisfactorily",
+      "choices": [
+        "Unit or module testing",
+        "System testing",
+        "Integration or subsystem testing"
+      ],
+      "answers": [
+        "Acceptance testing"
+      ],
+      "directions": "Lecture 4 Slide 10"
+    },
+    {
+      "question": "Which of the following types of testing involves putting the whole system together from the tested subsystems and testing it against its specification",
+      "choices": [
+        "Unit or module testing",
+        "Acceptance testing",
+        "Integration or subsystem testing"
+      ],
+      "answers": [
+        "System testing"
+      ],
+      "directions": "Lecture 4 Slide 10"
     }
   ]
 }
