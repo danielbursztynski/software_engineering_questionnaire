@@ -1,0 +1,327 @@
+{
+  "questions": [
+    {
+      "question": "Which of the following is best as a definition of software engineering",
+      "choices": [
+        "Software engineering is about making bug-free software",
+        "Software engineering is about always making the best software we can",
+        "Software engineering is about carrying out lots of quality procedures to make your customers happy"
+      ],
+      "answers": [
+        "Software engineering is about consistently making software of a level of quality appropriate to its use"
+      ],
+      "directions": "Lecture 2, Slides 17"
+    },
+    {
+      "question": "Which of these aspects of software development is NOT included in requirements analysis?",
+      "choices": [
+        "Deciding the functions of the software",
+        "Exploring what legislation might apply to development of the software",
+        "Planning what development process will be used to make the software"
+      ],
+      "answers": [
+        "Buying machines to run the software on"
+      ],
+      "directions": "Unknown"
+    },
+    {
+      "question": "What is the key insight of the Spiral Model for software engineering?",
+      "choices": [
+        "The idea that reducing risk is important",
+        "The concept of going around in circles",
+        "The emphasis on programming as a central discipline without which nothing is achieved",
+        "The knowledge that carrying out a project in phases is a good thing"
+      ],
+      "answers": [
+        "The idea that reducing risk is important"
+      ],
+      "directions": "Lecture 08, Slides 15"
+    },
+    {
+      "question": "Which of these is NOT one of the core disciplines in Extreme Programming",
+      "choices": [
+        "Continuous planning",
+        "Pair programming",
+        "Group code walkthroughs",
+        "Refactoring"
+      ],
+      "answers": [
+        ""
+      ],
+      "directions": ""
+    },
+    {
+      "question": "Which of the following would be described as corrective maintenance of software?",
+      "choices": [
+        "Adding a new feature to the software",
+        "Fixing a mathematical calculation which sometimes makes the software crash",
+        "Updating the software because a change to the operating system is causing problems",
+        "Refactoring a class to make the software more understandable"
+      ],
+      "answers": [
+        ""
+      ],
+      "directions": ""
+    },
+    {
+      "question": "Which of the following would be described as adaptive maintenance of software?",
+      "choices": [
+        "Adding a new feature to the software",
+        "Fixing a mathematical calculation which sometimes makes the software crash",
+        "Updating the software because a change to the operating system is causing problems",
+        "Refactoring a class to make the software more understandable"
+      ],
+      "answers": [
+        ""
+      ],
+      "directions": ""
+    },
+    {
+      "question": "Which of the following would be described as perfective maintenance of software?",
+      "choices": [
+        "Adding a new feature to the software",
+        "Fixing a mathematical calculation which sometimes makes the software crash",
+        "Updating the software because a change to the operating system is causing problems",
+        "Refactoring a class to make the software more understandable"
+      ],
+      "answers": [
+        ""
+      ],
+      "directions": ""
+    },
+    {
+      "question": "Which of the following would be described as preventative maintenance of software?",
+      "choices": [
+        "Adding a new feature to the software",
+        "Fixing a mathematical calculation which sometimes makes the software crash",
+        "Updating the software because a change to the operating system is causing problems",
+        "Refactoring a class to make the software more understandable"
+      ],
+      "answers": [
+        ""
+      ],
+      "directions": ""
+    },
+    {
+      "question": "Which of the following should encourage you to refactor your software?",
+      "choices": [
+        "Complaints from your customers",
+        "An increase in the number of bugs reported",
+        "Bad crashes in your run times",
+        "Bad smells in your code"
+      ],
+      "answers": [
+        ""
+      ],
+      "directions": ""
+    },
+    {
+      "question": "Which of the following requirements is a functional requirement?",
+      "choices": [
+        "Unit tests should be written for all classes in the system",
+        "The system should be user friendly",
+        "The system should sound an alarm if furnace temperature exceeds 450°C",
+        "The hardware needed to run the system should cost less than £400 per unit"
+      ],
+      "answers": [
+        ""
+      ],
+      "directions": ""
+    },
+    {
+      "question": "Which of the following requirements is an external requirement?",
+      "choices": [
+        "Unit tests should be written for all classes in the system",
+        "The system should be user friendly",
+        "The system should sound an alarm if furnace temperature exceeds 450°C",
+        "The hardware needed to run the system should cost less than £400 per unit"
+      ],
+      "answers": [
+        ""
+      ],
+      "directions": ""
+    },
+    {
+      "question": "Which of the following requirements is not testable?",
+      "choices": [
+        "Unit tests should be written for all classes in the system",
+        "The system should be user friendly",
+        "The system should sound an alarm if furnace temperature exceeds 450°C",
+        "The hardware needed to run the system should cost less than £400 per unit"
+      ],
+      "answers": [
+        ""
+      ],
+      "directions": ""
+    },
+    {
+      "question": "Which of the following requirements is a process requirement?",
+      "choices": [
+        "Unit tests should be written for all classes in the system",
+        "The system should be user friendly",
+        "The system should sound an alarm if furnace temperature exceeds 450°C",
+        "The hardware needed to run the system should cost less than £400 per unit"
+      ],
+      "answers": [
+        ""
+      ],
+      "directions": ""
+    },
+    {
+      "question": "In the Software Engineering Institute's Capability Maturity Model, which level was the minimum specified for being able to bid for US Department of Defence contracts?",
+      "choices": [
+        "Level 1",
+        "Level 3",
+        "Level 5",
+        "Level 7"
+      ],
+      "answers": [
+        ""
+      ],
+      "directions": ""
+    },
+    {
+      "question": "What does the UML component diagram show about the way your program works?",
+      "choices": [
+        "The methods that one class calls in another class",
+        "The structure of a class",
+        "How a main operation of the program works by calling different classes/methods",
+        "How the hard parts of your code can be written"
+      ],
+      "answers": [
+        ""
+      ],
+      "directions": ""
+    },
+    {
+      "question": "Why are documented procedures and management necessary in order to produce quality software?",
+      "choices": [
+        "Because managers like to show the programmers that they are in charge",
+        "Because the Capability Maturity Model says so",
+        "Because software development is complex and there are many things that need to be remembered",
+        "Because the ISO standard says so"
+      ],
+      "answers": [
+        ""
+      ],
+      "directions": ""
+    },
+    {
+      "question": "Which of the following is not a good reason for holding a code review with your development team?",
+      "choices": [
+        "In order to identify the best and worst programmers in your team",
+        "In order to share good programming practice among the team",
+        "In order to identify potential problems in code before it is deployed",
+        "In order to give the team a better understanding of the coding standards used"
+      ],
+      "answers": [
+        ""
+      ],
+      "directions": ""
+    },
+    {
+      "question": "Which of the following is not a good idea when designing a user interface?",
+      "choices": [
+        "Make the task to be accomplished as clear as possible",
+        "Use white space on the screen to help the user understand what things are related",
+        "Keep user scenarios in mind when deciding what information is needed",
+        "Keep error messages short to save as much space as possible"
+      ],
+      "answers": [
+        ""
+      ],
+      "directions": ""
+    },
+    {
+      "question": "Which of the following is not a git command",
+      "choices": [
+        "commit",
+        "embrace",
+        "pull",
+        "merge"
+      ],
+      "answers": [
+        ""
+      ],
+      "directions": ""
+    },
+    {
+      "question": "Which of the following is a correct statement?",
+      "choices": [
+        "We test programs because it shows that our programs work properly",
+        "TDD stands for Test-Discover-Debug",
+        "Testing is the most effective way of finding bugs in programs",
+        "Testing gives repeatable checking at low cost that specific problems do not occur"
+      ],
+      "answers": [
+        ""
+      ],
+      "directions": ""
+    },
+    {
+      "question": "What should you do when the user of your software makes a wrong input?",
+      "choices": [
+        "Give them the clearest indication where the error is and how to fix it",
+        "Keep messages short and sharp - they don't read them anyway",
+        "Tell the user off so that they will not make the same mistake again",
+        "Refuse to take any more input from them"
+      ],
+      "answers": [
+        ""
+      ],
+      "directions": ""
+    },
+    {
+      "question": "What should you do if you have 50 screens of information in your interface for the user to choose from?",
+      "choices": [
+        "Put them all on the screen at once in tabbed screens",
+        "Make a long alphabetical list for the user to scroll through to pick one",
+        "Group them into related areas, and only give more detailed choices when the user has chosen an area",
+        "Make a long list ordered by frequency of use for the user to scroll through and pick one"
+      ],
+      "answers": [
+        ""
+      ],
+      "directions": ""
+    },
+    {
+      "question": "Which of the following international standards applies to the development of software?",
+      "choices": [
+        "ISO 4007",
+        "ISO 8003",
+        "ISO 12001",
+        "ISO 9000-3"
+      ],
+      "answers": [
+        ""
+      ],
+      "directions": ""
+    },
+    {
+      "question": "Which of the following would you be unlikely to see in a Project Plan?",
+      "choices": [
+        "The organisation of the project",
+        "An analysis of the risks associated with the project",
+        "The design of the software for the project",
+        "The schedule for developing the software"
+      ],
+      "answers": [
+        ""
+      ],
+      "directions": ""
+    },
+    {
+      "question": "For the following set of tasks, time needed per task, and dependencies between tasks, what is the elapsed time needed for the critical path? Task Time Needed Dependencies",
+      "choices": [
+        "19",
+        "31",
+        "8",
+        "25"
+      ],
+      "answers": [
+        ""
+      ],
+      "directions": ""
+    }
+  ]
+}
