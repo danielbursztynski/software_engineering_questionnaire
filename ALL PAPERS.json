@@ -622,6 +622,331 @@
         ""
       ],
       "directions": ""
+    },
+    {
+      "question": "Which of these lifecycle methodologies is best described as a rigid development methodology with fixed stages that are addressed in a specific order?",
+      "choices": [
+        "Incremental development",
+        "Evolutionary prototyping",
+        "Waterfall lifecycle",
+        "Spiral model"
+      ],
+      "answers": [
+        ""
+      ],
+      "directions": ""
+    },
+    {
+      "question": "What is the main message of Brooks' \"No silver bullet\" paper?",
+      "choices": [
+        "Software development needs better languages",
+        "Software development needs better trained people",
+        "If a software project takes one person nine months, it does not mean nine people could do it in one month",
+        "No single improvement to what we do can deliver quality software"
+      ],
+      "answers": [
+        ""
+      ],
+      "directions": "http://worrydream.com/refs/Brooks-NoSilverBullet.pdf"
+    },
+    {
+      "question": "Which of these is the least efficient way to evaluate the usability of a new interface?",
+      "choices": [
+        "Make an animated set of computer screens, linked by buttons that steer you from screen to screen",
+        "Implement the actual software and try it on users",
+        "Make a set of hand drawn sketches of the screens to show the users",
+        "Use Photoshop to make drawings of what the screens will look like"
+      ],
+      "answers": [
+        ""
+      ],
+      "directions": ""
+    },
+    {
+      "question": "Which of the following is true when evaluating a design for a user interface?",
+      "choices": [
+        "You need to test your interface on at least 100 typical users to get sensible results",
+        "You cannot get useful results from a paper-based user interface prototype",
+        "Putting realistic data in your prototype screens gives more useful results",
+        "You need to make your prototype work for every possible data input"
+      ],
+      "answers": [
+        ""
+      ],
+      "directions": ""
+    },
+    {
+      "question": "Which of the following statements is true?",
+      "choices": [
+        "You can always develop software faster by adding extra programming effort",
+        "Time, cost, scope and quality of software are related",
+        "A project plan should not be changed once it has been made",
+        "A company should always charge the same amount of money to clients for a day of programmer time"
+      ],
+      "answers": [
+        ""
+      ],
+      "directions": ""
+    },
+    {
+      "question": "Which category of maintenance would include refactoring software so that it is easier to maintain?",
+      "choices": [
+        "Corrective maintenance.",
+        "Adaptive maintenance.",
+        "Perfective maintenance.",
+        "Preventative maintenance"
+      ],
+      "answers": [
+        ""
+      ],
+      "directions": ""
+    },
+    {
+      "question": "Which of the following statements is true?",
+      "choices": [
+        "Black box testing is based on the requirements specification",
+        "White box testing is based on the requirements specification",
+        "Testing is more effective than code reviews for finding errors",
+        "Regression testing entails testing all the paths through the code"
+      ],
+      "answers": [
+        ""
+      ],
+      "directions": ""
+    },
+    {
+      "question": "Which of the following requirements is not testable?",
+      "choices": [
+        "The system should work quickly",
+        "The system should be developed in Java",
+        "The system should store all information typed by the user",
+        "The system should use the existing software library to turn the heating on and off"
+      ],
+      "answers": [
+        ""
+      ],
+      "directions": ""
+    },
+    {
+      "question": "Which of the following requirements is a process requirement?",
+      "choices": [
+        "The system should work quickly",
+        "The system should be developed in Java",
+        "The system should store all information typed by the user",
+        "The system should use the existing software library to turn the heating on and off"
+      ],
+      "answers": [
+        ""
+      ],
+      "directions": ""
+    },
+    {
+      "question": "Which of the following requirements is a functional requirement?",
+      "choices": [
+        "The system should work quickly",
+        "The system should be developed in Java",
+        "The system should store all information typed by the user",
+        "The system should use the existing software library to turn the heating on and off"
+      ],
+      "answers": [
+        ""
+      ],
+      "directions": ""
+    },
+    {
+      "question": "Which of the following requirements is an external requirement?",
+      "choices": [
+        "The system should work quickly",
+        "The system should be developed in Java",
+        "The system should store all information typed by the user",
+        "The system should use the existing software library to turn the heating on and off"
+      ],
+      "answers": [
+        ""
+      ],
+      "directions": ""
+    },
+    {
+      "question": "Which of the following things is most important if you want to create quality software",
+      "choices": [
+        "Properly trained people",
+        "The best software tools",
+        "A good requirements specification",
+        "Lots of money"
+      ],
+      "answers": [
+        ""
+      ],
+      "directions": ""
+    },
+    {
+      "question": "Which of the following international standards applies to the development of software?",
+      "choices": [
+        "ISO 4007",
+        "ISO 8003",
+        "ISO 12001",
+        "ISO 9000-3"
+      ],
+      "answers": [
+        ""
+      ],
+      "directions": ""
+    },
+    {
+      "question": "Which of the following is not a good reason for holding a code review in your development team?",
+      "choices": [
+        "In order to identify the best and worst programmers in your team",
+        "In order to share good programming practice among the team",
+        "In order to identify potential problems in code before it is deployed",
+        "In order to give the team a better understanding of the coding standards used"
+      ],
+      "answers": [
+        ""
+      ],
+      "directions": ""
+    },
+    {
+      "question": "Which of the following should encourage you to refactor your software?",
+      "choices": [
+        "Complaints from your customers",
+        "An increase in the number of bugs reported",
+        "Bad crashes in your run times",
+        "Bad smells in your code"
+      ],
+      "answers": [
+        ""
+      ],
+      "directions": ""
+    },
+    {
+      "question": "What is the most valuable thing that you can do if your company wants to improve its software processes?",
+      "choices": [
+        "Measure what is done, in order to observe where the problems are",
+        "Put in place a full quality control system to ISO-standards",
+        "Improve the way the company system tests its software",
+        "Introduce unit testing to the company"
+      ],
+      "answers": [
+        ""
+      ],
+      "directions": ""
+    },
+    {
+      "question": "Which kind of UML diagram illustrates how the main operations of a program are carried out through calls to methods in different classes?",
+      "choices": [
+        "Class diagram",
+        "Component diagram",
+        "Component diagram",
+        "Use case diagram"
+      ],
+      "answers": [
+        ""
+      ],
+      "directions": ""
+    },
+    {
+      "question": "Which kind of UML diagram shows which methods in each class are called by other classes, and which classes they are called by?",
+      "choices": [
+        "Class diagram",
+        "Component diagram",
+        "Sequence diagram",
+        "Use case diagram"
+      ],
+      "answers": [
+        ""
+      ],
+      "directions": ""
+    },
+    {
+      "question": "Which kind of UML diagram shows how actors interact with a system to achieve goals?",
+      "choices": [
+        "Class diagram",
+        "Component diagram",
+        "Sequence diagram",
+        "Use case diagram"
+      ],
+      "answers": [
+        ""
+      ],
+      "directions": ""
+    },
+    {
+      "question": "Which of the following statements is not true?",
+      "choices": [
+        "UML stands for Unified Modelling Language",
+        "UML is a process for modelling systems",
+        "Project planning diagrams are part of UML",
+        "Class diagrams are part of UML"
+      ],
+      "answers": [
+        ""
+      ],
+      "directions": ""
+    },
+    {
+      "question": "In the Software Engineering Institute's Capability Maturity Model, what term is used to describe an organisation with a stable process model meeting the demands of the US Department of Defense?",
+      "choices": [
+        "Repeatable",
+        "Defined",
+        "Managed",
+        "Optimizing"
+      ],
+      "answers": [
+        ""
+      ],
+      "directions": ""
+    },
+    {
+      "question": "Which of the following is a correct statement?",
+      "choices": [
+        "We test programs because it shows that our programs work properly",
+        "TDD stands for Test-Discover-Debug",
+        "Testing is the most effective way of finding bugs in programs",
+        "Testing gives repeatable checking at low cost that specific problems do not occur"
+      ],
+      "answers": [
+        ""
+      ],
+      "directions": ""
+    },
+    {
+      "question": "Which of the following is a correct statement?",
+      "choices": [
+        "Ethics involves doing a cost/benefit analysis",
+        "Ethics is about making choices with a moral dimension",
+        "Ethics means we should not work for the defence industry",
+        "Ethics means that we need to obey the law"
+      ],
+      "answers": [
+        ""
+      ],
+      "directions": ""
+    },
+    {
+      "question": "Which of the following was not a conclusion of the enquiry into the London Ambulance Service Computer-Aided Despatch Service?",
+      "choices": [
+        "London Ambulance Service needs full-time IT managers",
+        "Around 4 years would be needed to build complete system",
+        "Computer-aided despatch is desirable and should be implemented",
+        "Computer-aided despatch is dangerous and should be avoided"
+      ],
+      "answers": [
+        ""
+      ],
+      "directions": ""
+    },
+    {
+      "question": "Which of the following statements is not true?",
+      "choices": [
+        "If you use source control then you don't have to worry about a disc failure",
+        "Source control is including in many Interactive Development Environments",
+        "Source control strategy is part of the quality plan for a project",
+        "Source control is an important part of developing engineered software"
+      ],
+      "answers": [
+        ""
+      ],
+      "directions": ""
     }
   ]
 }
