@@ -46,9 +46,9 @@
         "Refactoring"
       ],
       "answers": [
-        ""
+        "Unknown"
       ],
-      "directions": ""
+      "directions": "Unknown"
     },
     {
       "question": "Which of the following would be described as corrective maintenance of software?",
@@ -59,9 +59,9 @@
         "Refactoring a class to make the software more understandable"
       ],
       "answers": [
-        ""
+        "Unknown"
       ],
-      "directions": ""
+      "directions": "Unknown"
     },
     {
       "question": "Which of the following would be described as adaptive maintenance of software?",
@@ -72,9 +72,9 @@
         "Refactoring a class to make the software more understandable"
       ],
       "answers": [
-        ""
+        "Unknown"
       ],
-      "directions": ""
+      "directions": "Unknown"
     },
     {
       "question": "Which of the following would be described as perfective maintenance of software?",
@@ -85,9 +85,9 @@
         "Refactoring a class to make the software more understandable"
       ],
       "answers": [
-        ""
+        "Unknown"
       ],
-      "directions": ""
+      "directions": "Unknown"
     },
     {
       "question": "Which of the following would be described as preventative maintenance of software?",
@@ -98,9 +98,9 @@
         "Refactoring a class to make the software more understandable"
       ],
       "answers": [
-        ""
+        "Unknown"
       ],
-      "directions": ""
+      "directions": "Unknown"
     },
     {
       "question": "Which of the following should encourage you to refactor your software?",
@@ -111,9 +111,9 @@
         "Bad smells in your code"
       ],
       "answers": [
-        ""
+        "Unknown"
       ],
-      "directions": ""
+      "directions": "Unknown"
     },
     {
       "question": "Which of the following requirements is a functional requirement?",
@@ -124,9 +124,9 @@
         "The hardware needed to run the system should cost less than £400 per unit"
       ],
       "answers": [
-        ""
+        "Unknown"
       ],
-      "directions": ""
+      "directions": "Unknown"
     },
     {
       "question": "Which of the following requirements is an external requirement?",
@@ -137,9 +137,9 @@
         "The hardware needed to run the system should cost less than £400 per unit"
       ],
       "answers": [
-        ""
+        "Unknown"
       ],
-      "directions": ""
+      "directions": "Unknown"
     },
     {
       "question": "Which of the following requirements is not testable?",
@@ -150,9 +150,9 @@
         "The hardware needed to run the system should cost less than £400 per unit"
       ],
       "answers": [
-        ""
+        "Unknown"
       ],
-      "directions": ""
+      "directions": "Unknown"
     },
     {
       "question": "Which of the following requirements is a process requirement?",
@@ -163,9 +163,9 @@
         "The hardware needed to run the system should cost less than £400 per unit"
       ],
       "answers": [
-        ""
+        "Unknown"
       ],
-      "directions": ""
+      "directions": "Unknown"
     },
     {
       "question": "In the Software Engineering Institute's Capability Maturity Model, which level was the minimum specified for being able to bid for US Department of Defence contracts?",
@@ -176,9 +176,9 @@
         "Level 7"
       ],
       "answers": [
-        ""
+        "Unknown"
       ],
-      "directions": ""
+      "directions": "Unknown"
     },
     {
       "question": "What does the UML component diagram show about the way your program works?",
@@ -189,9 +189,9 @@
         "How the hard parts of your code can be written"
       ],
       "answers": [
-        ""
+        "Unknown"
       ],
-      "directions": ""
+      "directions": "Unknown"
     },
     {
       "question": "Why are documented procedures and management necessary in order to produce quality software?",
@@ -202,9 +202,9 @@
         "Because the ISO standard says so"
       ],
       "answers": [
-        ""
+        "Unknown"
       ],
-      "directions": ""
+      "directions": "Unknown"
     },
     {
       "question": "Which of the following is not a good reason for holding a code review with your development team?",
@@ -215,9 +215,9 @@
         "In order to give the team a better understanding of the coding standards used"
       ],
       "answers": [
-        ""
+        "Unknown"
       ],
-      "directions": ""
+      "directions": "Unknown"
     },
     {
       "question": "Which of the following is not a good idea when designing a user interface?",
@@ -228,9 +228,9 @@
         "Keep error messages short to save as much space as possible"
       ],
       "answers": [
-        ""
+        "Unknown"
       ],
-      "directions": ""
+      "directions": "Unknown"
     },
     {
       "question": "Which of the following is not a git command",
@@ -241,9 +241,9 @@
         "merge"
       ],
       "answers": [
-        ""
+        "Unknown"
       ],
-      "directions": ""
+      "directions": "Unknown"
     },
     {
       "question": "Which of the following is a correct statement?",
@@ -254,9 +254,9 @@
         "Testing gives repeatable checking at low cost that specific problems do not occur"
       ],
       "answers": [
-        ""
+        "Unknown"
       ],
-      "directions": ""
+      "directions": "Unknown"
     },
     {
       "question": "What should you do when the user of your software makes a wrong input?",
@@ -267,9 +267,9 @@
         "Refuse to take any more input from them"
       ],
       "answers": [
-        ""
+        "Unknown"
       ],
-      "directions": ""
+      "directions": "Unknown"
     },
     {
       "question": "What should you do if you have 50 screens of information in your interface for the user to choose from?",
@@ -280,9 +280,9 @@
         "Make a long list ordered by frequency of use for the user to scroll through and pick one"
       ],
       "answers": [
-        ""
+        "Unknown"
       ],
-      "directions": ""
+      "directions": "Unknown"
     },
     {
       "question": "Which of the following international standards applies to the development of software",
@@ -305,9 +305,9 @@
         "The schedule for developing the software"
       ],
       "answers": [
-        ""
+        "Unknown"
       ],
-      "directions": ""
+      "directions": "Unknown"
     },
     {
       "question": "For the following set of tasks, time needed per task, and dependencies between tasks, what is the elapsed time needed for the critical path? Task Time Needed Dependencies",
@@ -318,9 +318,9 @@
         "25"
       ],
       "answers": [
-        ""
+        "Unknown"
       ],
-      "directions": ""
+      "directions": "Unknown"
     }
   ]
 }
